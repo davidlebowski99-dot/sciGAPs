@@ -1,5 +1,5 @@
 # ==== Default API Keys (can be changed in sidebar) ====
-DEFAULT_OPENROUTER_API_KEY = "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"
+DEFAULT_OPENROUTER_API_KEY = "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"
 DEFAULT_PUBMED_API_KEY = "633c02cd5685ef07df46fa96f7df75ce4a09"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 PUBMED_API_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
